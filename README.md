@@ -1,2 +1,3 @@
 # TicTacToe
-Simple JFrame TicTacToe game created in NetBeans
+Simple JFrame TicTacToe game\
+Created in NetBeans
